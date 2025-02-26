@@ -34,10 +34,12 @@ python steganography.py
 
 🔹 Screenshots
 📌 Encryption Process
+
 ![Screenshot 2025-02-26 174544](https://github.com/user-attachments/assets/3bddbd99-739b-42de-9dac-c730df88b221)
 
 
 📌 Decryption Process
+
 ![Screenshot 2025-02-26 174657](https://github.com/user-attachments/assets/9084d11d-663a-4f22-b52a-1b36ad9e2019)
 
 
